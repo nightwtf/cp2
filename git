@@ -1,6 +1,6 @@
 {
-  "name": "My Example Source",
-  "identifier": "com.example.MyApps",
+  "name": "My Source CP2",
+  "identifier": "com.nightwtf.0o4o",
   "subtitle": "All my apps in one place.",
   "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
@@ -13,9 +13,9 @@
   ],
   "apps": [
       {
-          "name": "My Example App",
-          "bundleIdentifier": "com.example.myapp",
-          "developerName": "Example Developer",
+          "name": "CPM2",
+          "bundleIdentifier": "com.olzhas.carparking.multyplayer2.ios",
+          "developerName": "Aidana Kenbeiil",
           "subtitle": "An awesome app.",
     "localizedDescription": "This is an awesome app only available on AltStore.",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
@@ -30,9 +30,9 @@
                   "version": "1.1",
                   "date": "2022-05-01T09:00:00-08:00",
         "size": 20000000,
-        "downloadURL": "https://example.com/myapp_v1.1.ipa",
+        "downloadURL": "https://filetransfer.io/data-package/Og056MGl/download",
         "localizedDescription": "New features and bug fixes.",
-        "minOSVersion": "12.0"},
+        "minOSVersion": "13.0"},
               {
                   "version": "1.0",
                   "date": "2022-03-16T07:00:00-08:00",
